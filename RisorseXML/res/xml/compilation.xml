@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<compilation>
+	<brano id='1'>
+	<titolo>Senza Parole</titolo>
+	<autore>Vasco Rossi</autore>
+	</brano>
+	<brano id='2'>
+	<titolo>One</titolo>
+	<autore>U2</autore>
+	</brano>
+</compilation>
